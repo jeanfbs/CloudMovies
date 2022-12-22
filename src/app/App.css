@@ -1,0 +1,126 @@
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn-xs{
+
+    padding: 0px 4px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+.card-1 {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.title-hightlight{
+    background: #444;
+}
+
+.table{
+    border: 1px solid #ccc;
+}
+
+.table-responsive{
+    max-height: 450px;
+    overflow: auto;
+}
+
+
+.card-header-tabs{
+    margin-left: .4rem;
+    margin-right: .4rem;
+    margin-bottom: -6px;
+}
+.nav-link{
+    padding: .27rem 1rem;
+}
+.tab-content>.tab-pane{
+    padding: 15px;
+    margin:6px;
+    border: 1px solid #ccc;
+}
+
+.card-header{
+    font-weight: 600;
+}
+
+.icon{
+    margin-bottom: 3px;
+}
+
+label{
+    font-weight: 600;
+}
+
+.input-group>.custom-select:not(:first-child), .input-group>.form-control:not(:first-child){
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+fieldset{
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+legend{
+    font-size: 20px;
+    font-weight: 600;
+    background: transparent;
+    width: auto;
+    padding: 5px 10px;
+}
+
+  .actions{
+      margin: 0 2px;
+  }
+  .actions:hover{
+    text-decoration: none;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    background-color: #efefef;
+    border-color: #dee2e6 #dee2e6 #efefef;
+}
+.navbar-light .navbar-nav .nav-link{
+    font-weight: 600;
+}
+
+.help{
+    cursor: help;
+}
+
+th{
+    font-weight: 600;
+}
+
+.icon-help{
+    color:#fff;
+}
+
+.icon-help:hover{
+    color: #eee;
+}
+
+.css-yk16xz-control, .css-1pahdxg-control{
+    border: 1px solid #065471!important;
+    min-height: 32px!important;
+    max-height: 32px!important;
+    box-shadow: none!important;
+}
+.css-yk16xz-control *{
+    color:#065471;
+}
+
+.css-1wa3eu0-placeholder{
+    top: 40%!important;
+    font-size: 14px!important;
+}
+
+.css-1okebmr-indicatorSeparator{
+    margin-bottom: 12px!important;
+    margin-top: 4px!important;
+}

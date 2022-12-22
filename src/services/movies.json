@@ -1,0 +1,684 @@
+{
+   "categories": [
+      {
+         "name": "Novidades",
+         "url": "novidades",
+         "movies": [
+            {
+              "id": 215843,
+              "title": "Punhos de Ferro",
+              "country": "Alemanha",
+              "year": 2001,
+              "director": "Steven Spielberg",
+              "slug": "punhos-de-ferro",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/xyz.215843/0215843_335.jpg?1754089960"
+              }
+            },
+            {
+              "id": 208371,
+              "title": "Maldita Aranha Assassina",
+              "country": "Estados Unidos",
+              "year": 2002,
+              "director": "Stanley Kubrick",
+              "slug": "maldita-aranha-assassina",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/epc.208371/0208371_335.jpg?1473851061"
+              }
+            },
+            {
+              "id": 204326,
+              "title": "Sem Saída",
+              "country": "Mexico",
+              "year": 2003,
+              "director": "Bernardo Bertolucci",
+              "slug": "sem-saida",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/mrs.204326/0204326_335.jpg?1698847652"
+              }
+            },
+            {
+              "id": 166938,
+              "title": "Fábrica de Sonhos - Ouse Sonhar",
+              "country": "Brasil",
+              "year": 2004,
+              "director": "Jean-Luc Godard",
+              "slug": "fabrica-de-sonhos-ouse-sonhar",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pct.166938/0166938_335.jpg?147586547"
+              }
+            },
+            {
+              "id": 153625,
+              "title": "Amor Invisível",
+              "country": "Reino Unido",
+              "year": 2005,
+              "director": "Quentin Tarantino",
+              "slug": "amor-invisivel",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/cta.153625/0153625_335.jpg?989447388"
+              }
+            },
+            {
+              "id": 42721,
+              "title": "Mel e Orfeu - Volume 1",
+              "country": "China",
+              "year": 2006,
+              "director": "Martin Scorsese",
+              "slug": "mel-e-orfeu-volumethumb",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.042721/0042721_335.jpg?444863132"
+              }
+            },
+            {
+              "id": 21401,
+              "title": "Dias e Noites",
+              "country": "Japão",
+              "year": 2007,
+              "director": "Alfred Hitchcock",
+              "slug": "dias-e-noites",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021401/0021401_335.jpg?201860285"
+              }
+            },
+            {
+              "id": 21360,
+              "title": "Batalha por T.E.R.A",
+              "country": "Estados Unidos",
+              "year": 2008,
+              "director": "Tim Burton",
+              "slug": "batalha-por-tera",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021360/0021360_335.jpg?131064548"
+              }
+            },
+            {
+              "id": 38565,
+              "title": "Edwin Boyd - A Lenda do Crime",
+              "country": "Estados Unidos",
+              "year": 2009,
+              "director": "Woody Allen",
+              "slug": "edwin-boyd-a-lenda-do-crime",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.038565/0038565_335.jpg?1758915100"
+              }
+            },
+            {
+              "id": 191955,
+              "title": "O Milagre da Vida",
+              "country": "Estados Unidos",
+              "year": 2010,
+              "director": "Francis Ford Coppola",
+              "slug": "o-milagre-da-vida",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/bps.191955/0191955_335.jpg?217251990"
+              }
+            },
+            {
+              "id": 158744,
+              "title": "Meu Amigo Robô",
+              "country": "Brasil",
+              "year": 2011,
+              "director": "Steven Spielberg",
+              "slug": "meu-amigo-robo",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/dcp.158744/0158744_335.jpg?97823879"
+              }
+            },
+            {
+              "id": 150779,
+              "title": "Starfish - Uma História de Amor Incondicional",
+              "country": "China",
+              "year": 2012,
+              "director": "Stanley Kubrick",
+              "slug": "starfish-uma-historia-de-amor-incondicional",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/scf.150779/0150779_335.jpg?1771381238"
+              }
+            },
+            {
+              "id": 152245,
+              "title": "Justiça a Qualquer Custo ",
+              "country": "Japão",
+              "year": 2013,
+              "director": "Bernardo Bertolucci",
+              "slug": "justica-a-qualquer-custothumba-temporada",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ntv.152245/0152245_335.jpg?809323096"
+              }
+            },
+            {
+              "id": 21363,
+              "title": "Plano de Vingança",
+              "country": "China",
+              "year": 2014,
+              "director": "Jean-Luc Godard",
+              "slug": "plano-de-vinganca",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021363/0021363_335.jpg?726256479"
+              }
+            },
+            {
+              "id": 9156,
+              "title": "Branca de Neve e os 7 Anões",
+              "country": "Japão",
+              "year": 2015,
+              "director": "Quentin Tarantino",
+              "slug": "branca-de-neve-e-os-7-anoes",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.009156/0009156_335.jpg?1053591479"
+              }
+            },
+            {
+              "id": 21525,
+              "title": "SCAR - A Marca do Mal",
+              "country": "Mexico",
+              "year": 2016,
+              "director": "Martin Scorsese",
+              "slug": "scar-a-marca-do-mal",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021525/0021525_335.jpg?907873654"
+              }
+            },
+            {
+              "id": 9160,
+              "title": "Alice no País das Maravilhas",
+              "country": "Mexico",
+              "year": 2017,
+              "director": "Alfred Hitchcock",
+              "slug": "alice-no-pais-das-maravilhas",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.009160/0009160_335.jpg?710554671"
+              }
+            },
+            {
+              "id": 213325,
+              "title": "Ele Sabe Meu Nome",
+              "country": "Alemanha",
+              "year": 2018,
+              "director": "Tim Burton",
+              "slug": "ele-sabe-meu-nome",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/koa.213325/0213325_335.jpg?676233663"
+              }
+            },
+            {
+              "id": 46803,
+              "title": "Zoorquestra - Volume 1",
+              "country": "Reino Unido",
+              "year": 2019,
+              "director": "Woody Allen",
+              "slug": "zoorquestra-volumethumb",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/emo.046803/0046803_335.jpg?1673756990"
+              }
+            },
+            {
+              "id": 47040,
+              "title": "3 Palavrinhas - Volume 3",
+              "country": "Reino Unido",
+              "year": 2020,
+              "director": "Francis Ford Coppola",
+              "slug": "3-palavrinhas-volume-3",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/emo.047040/0047040_335.jpg?773641985"
+              }
+            }
+          ]
+      },
+      {
+         "name":"Top 10",
+         "url": "top-10",
+         "movies": [
+            {
+              "id": 215843,
+              "title": "Punhos de Ferro",
+              "country": "Alemanha",
+              "year": 2001,
+              "director": "Steven Spielberg",
+              "slug": "punhos-de-ferro",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/xyz.215843/0215843_335.jpg?1754089960"
+              }
+            },
+            {
+              "id": 208371,
+              "title": "Maldita Aranha Assassina",
+              "country": "Estados Unidos",
+              "year": 2002,
+              "director": "Stanley Kubrick",
+              "slug": "maldita-aranha-assassina",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/epc.208371/0208371_335.jpg?1473851061"
+              }
+            },
+            {
+              "id": 204326,
+              "title": "Sem Saída",
+              "country": "Mexico",
+              "year": 2003,
+              "director": "Bernardo Bertolucci",
+              "slug": "sem-saida",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/mrs.204326/0204326_335.jpg?1698847652"
+              }
+            },
+            {
+              "id": 166938,
+              "title": "Fábrica de Sonhos - Ouse Sonhar",
+              "country": "Brasil",
+              "year": 2004,
+              "director": "Jean-Luc Godard",
+              "slug": "fabrica-de-sonhos-ouse-sonhar",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pct.166938/0166938_335.jpg?147586547"
+              }
+            },
+            {
+              "id": 153625,
+              "title": "Amor Invisível",
+              "country": "Reino Unido",
+              "year": 2005,
+              "director": "Quentin Tarantino",
+              "slug": "amor-invisivel",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/cta.153625/0153625_335.jpg?989447388"
+              }
+            },
+            {
+              "id": 42721,
+              "title": "Mel e Orfeu - Volume 1",
+              "country": "China",
+              "year": 2006,
+              "director": "Martin Scorsese",
+              "slug": "mel-e-orfeu-volumethumb",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.042721/0042721_335.jpg?444863132"
+              }
+            },
+            {
+              "id": 21401,
+              "title": "Dias e Noites",
+              "country": "Japão",
+              "year": 2007,
+              "director": "Alfred Hitchcock",
+              "slug": "dias-e-noites",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021401/0021401_335.jpg?201860285"
+              }
+            },
+            {
+              "id": 21360,
+              "title": "Batalha por T.E.R.A",
+              "country": "Estados Unidos",
+              "year": 2008,
+              "director": "Tim Burton",
+              "slug": "batalha-por-tera",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021360/0021360_335.jpg?131064548"
+              }
+            },
+            {
+              "id": 38565,
+              "title": "Edwin Boyd - A Lenda do Crime",
+              "country": "Estados Unidos",
+              "year": 2009,
+              "director": "Woody Allen",
+              "slug": "edwin-boyd-a-lenda-do-crime",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.038565/0038565_335.jpg?1758915100"
+              }
+            },
+            {
+              "id": 191955,
+              "title": "O Milagre da Vida",
+              "country": "Estados Unidos",
+              "year": 2010,
+              "director": "Francis Ford Coppola",
+              "slug": "o-milagre-da-vida",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/bps.191955/0191955_335.jpg?217251990"
+              }
+            },
+            {
+              "id": 158744,
+              "title": "Meu Amigo Robô",
+              "country": "Brasil",
+              "year": 2011,
+              "director": "Steven Spielberg",
+              "slug": "meu-amigo-robo",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/dcp.158744/0158744_335.jpg?97823879"
+              }
+            },
+            {
+              "id": 150779,
+              "title": "Starfish - Uma História de Amor Incondicional",
+              "country": "China",
+              "year": 2012,
+              "director": "Stanley Kubrick",
+              "slug": "starfish-uma-historia-de-amor-incondicional",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/scf.150779/0150779_335.jpg?1771381238"
+              }
+            },
+            {
+              "id": 152245,
+              "title": "Justiça a Qualquer Custo ",
+              "country": "Japão",
+              "year": 2013,
+              "director": "Bernardo Bertolucci",
+              "slug": "justica-a-qualquer-custothumba-temporada",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ntv.152245/0152245_335.jpg?809323096"
+              }
+            },
+            {
+              "id": 21363,
+              "title": "Plano de Vingança",
+              "country": "China",
+              "year": 2014,
+              "director": "Jean-Luc Godard",
+              "slug": "plano-de-vinganca",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021363/0021363_335.jpg?726256479"
+              }
+            },
+            {
+              "id": 9156,
+              "title": "Branca de Neve e os 7 Anões",
+              "country": "Japão",
+              "year": 2015,
+              "director": "Quentin Tarantino",
+              "slug": "branca-de-neve-e-os-7-anoes",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.009156/0009156_335.jpg?1053591479"
+              }
+            },
+            {
+              "id": 21525,
+              "title": "SCAR - A Marca do Mal",
+              "country": "Mexico",
+              "year": 2016,
+              "director": "Martin Scorsese",
+              "slug": "scar-a-marca-do-mal",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021525/0021525_335.jpg?907873654"
+              }
+            },
+            {
+              "id": 9160,
+              "title": "Alice no País das Maravilhas",
+              "country": "Mexico",
+              "year": 2017,
+              "director": "Alfred Hitchcock",
+              "slug": "alice-no-pais-das-maravilhas",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.009160/0009160_335.jpg?710554671"
+              }
+            },
+            {
+              "id": 213325,
+              "title": "Ele Sabe Meu Nome",
+              "country": "Alemanha",
+              "year": 2018,
+              "director": "Tim Burton",
+              "slug": "ele-sabe-meu-nome",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/koa.213325/0213325_335.jpg?676233663"
+              }
+            },
+            {
+              "id": 46803,
+              "title": "Zoorquestra - Volume 1",
+              "country": "Reino Unido",
+              "year": 2019,
+              "director": "Woody Allen",
+              "slug": "zoorquestra-volumethumb",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/emo.046803/0046803_335.jpg?1673756990"
+              }
+            },
+            {
+              "id": 47040,
+              "title": "3 Palavrinhas - Volume 3",
+              "country": "Reino Unido",
+              "year": 2020,
+              "director": "Francis Ford Coppola",
+              "slug": "3-palavrinhas-volume-3",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/emo.047040/0047040_335.jpg?773641985"
+              }
+            }
+          ]
+      },
+      {
+         "name":"Especial Natal",
+         "url": "especial-natal",
+         "movies": [
+            {
+              "id": 215843,
+              "title": "Punhos de Ferro",
+              "country": "Alemanha",
+              "year": 2001,
+              "director": "Steven Spielberg",
+              "slug": "punhos-de-ferro",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/xyz.215843/0215843_335.jpg?1754089960"
+              }
+            },
+            {
+              "id": 208371,
+              "title": "Maldita Aranha Assassina",
+              "country": "Estados Unidos",
+              "year": 2002,
+              "director": "Stanley Kubrick",
+              "slug": "maldita-aranha-assassina",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/epc.208371/0208371_335.jpg?1473851061"
+              }
+            },
+            {
+              "id": 204326,
+              "title": "Sem Saída",
+              "country": "Mexico",
+              "year": 2003,
+              "director": "Bernardo Bertolucci",
+              "slug": "sem-saida",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/mrs.204326/0204326_335.jpg?1698847652"
+              }
+            },
+            {
+              "id": 166938,
+              "title": "Fábrica de Sonhos - Ouse Sonhar",
+              "country": "Brasil",
+              "year": 2004,
+              "director": "Jean-Luc Godard",
+              "slug": "fabrica-de-sonhos-ouse-sonhar",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pct.166938/0166938_335.jpg?147586547"
+              }
+            },
+            {
+              "id": 153625,
+              "title": "Amor Invisível",
+              "country": "Reino Unido",
+              "year": 2005,
+              "director": "Quentin Tarantino",
+              "slug": "amor-invisivel",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/cta.153625/0153625_335.jpg?989447388"
+              }
+            },
+            {
+              "id": 42721,
+              "title": "Mel e Orfeu - Volume 1",
+              "country": "China",
+              "year": 2006,
+              "director": "Martin Scorsese",
+              "slug": "mel-e-orfeu-volumethumb",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.042721/0042721_335.jpg?444863132"
+              }
+            },
+            {
+              "id": 21401,
+              "title": "Dias e Noites",
+              "country": "Japão",
+              "year": 2007,
+              "director": "Alfred Hitchcock",
+              "slug": "dias-e-noites",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021401/0021401_335.jpg?201860285"
+              }
+            },
+            {
+              "id": 21360,
+              "title": "Batalha por T.E.R.A",
+              "country": "Estados Unidos",
+              "year": 2008,
+              "director": "Tim Burton",
+              "slug": "batalha-por-tera",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021360/0021360_335.jpg?131064548"
+              }
+            },
+            {
+              "id": 38565,
+              "title": "Edwin Boyd - A Lenda do Crime",
+              "country": "Estados Unidos",
+              "year": 2009,
+              "director": "Woody Allen",
+              "slug": "edwin-boyd-a-lenda-do-crime",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.038565/0038565_335.jpg?1758915100"
+              }
+            },
+            {
+              "id": 191955,
+              "title": "O Milagre da Vida",
+              "country": "Estados Unidos",
+              "year": 2010,
+              "director": "Francis Ford Coppola",
+              "slug": "o-milagre-da-vida",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/bps.191955/0191955_335.jpg?217251990"
+              }
+            },
+            {
+              "id": 158744,
+              "title": "Meu Amigo Robô",
+              "country": "Brasil",
+              "year": 2011,
+              "director": "Steven Spielberg",
+              "slug": "meu-amigo-robo",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/dcp.158744/0158744_335.jpg?97823879"
+              }
+            },
+            {
+              "id": 150779,
+              "title": "Starfish - Uma História de Amor Incondicional",
+              "country": "China",
+              "year": 2012,
+              "director": "Stanley Kubrick",
+              "slug": "starfish-uma-historia-de-amor-incondicional",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/scf.150779/0150779_335.jpg?1771381238"
+              }
+            },
+            {
+              "id": 152245,
+              "title": "Justiça a Qualquer Custo",
+              "country": "Japão",
+              "year": 2013,
+              "director": "Bernardo Bertolucci",
+              "slug": "justica-a-qualquer-custothumba-temporada",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ntv.152245/0152245_335.jpg?809323096"
+              }
+            },
+            {
+              "id": 21363,
+              "title": "Plano de Vingança",
+              "country": "China",
+              "year": 2014,
+              "director": "Jean-Luc Godard",
+              "slug": "plano-de-vinganca",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021363/0021363_335.jpg?726256479"
+              }
+            },
+            {
+              "id": 9156,
+              "title": "Branca de Neve e os 7 Anões",
+              "country": "Japão",
+              "year": 2015,
+              "director": "Quentin Tarantino",
+              "slug": "branca-de-neve-e-os-7-anoes",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.009156/0009156_335.jpg?1053591479"
+              }
+            },
+            {
+              "id": 21525,
+              "title": "SCAR - A Marca do Mal",
+              "country": "Mexico",
+              "year": 2016,
+              "director": "Martin Scorsese",
+              "slug": "scar-a-marca-do-mal",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/pat.021525/0021525_335.jpg?907873654"
+              }
+            },
+            {
+              "id": 9160,
+              "title": "Alice no País das Maravilhas",
+              "country": "Mexico",
+              "year": 2017,
+              "director": "Alfred Hitchcock",
+              "slug": "alice-no-pais-das-maravilhas",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/ipi.009160/0009160_335.jpg?710554671"
+              }
+            },
+            {
+              "id": 213325,
+              "title": "Ele Sabe Meu Nome",
+              "country": "Alemanha",
+              "year": 2018,
+              "director": "Tim Burton",
+              "slug": "ele-sabe-meu-nome",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/koa.213325/0213325_335.jpg?676233663"
+              }
+            },
+            {
+              "id": 46803,
+              "title": "Zoorquestra - Volume 1",
+              "country": "Reino Unido",
+              "year": 2019,
+              "director": "Woody Allen",
+              "slug": "zoorquestra-volumethumb",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/emo.046803/0046803_335.jpg?1673756990"
+              }
+            },
+            {
+              "id": 47040,
+              "title": "3 Palavrinhas - Volume 3",
+              "country": "Reino Unido",
+              "year": 2020,
+              "director": "Francis Ford Coppola",
+              "slug": "3-palavrinhas-volume-3",
+              "images": {
+                "thumb": "https://ottvsimg.ottvs.com.br/cov/emo.047040/0047040_335.jpg?773641985"
+              }
+            }
+          ]
+      }
+   ]
+}
+
+
